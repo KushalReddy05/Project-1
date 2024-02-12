@@ -1,0 +1,22 @@
+.bg{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+.Head{
+    text-align: center;
+    font-family: sans-serif;
+}
+.container{
+    background-color: white;
+    margin: 30px;
+    padding: 20px;
+}
+.taj{
+    font-size: small;
+}
+.img{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
